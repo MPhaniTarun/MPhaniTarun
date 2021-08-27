@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning 
     <ul>
      <li>Artificial Intelligence and Machine Learning</li>
-     <li>Web Devlopment</li>
+     <li>Web Development</li>
      <li>Data Structure and Algorithms </li>
     </ul>
 - 📫 How to reach me <br>
