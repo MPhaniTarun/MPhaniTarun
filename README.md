@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
      <ul>
       <li>Programming</li>
-      <li>Web Development</li>
+      <li>AI and ML</li>
      </ul>
 - 🌱 I’m currently learning 
     <ul>
