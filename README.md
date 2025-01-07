@@ -2,12 +2,11 @@
 - 👀 I’m interested in 
      <ul>
       <li>Programming</li>
-      <li>AI and ML</li>
+      <li>AI/ML/NLP/CV</li>
      </ul>
-- 🌱 I’m currently learning 
+- 🌱 I’m currently pursuing 
     <ul>
-     <li>Artificial Intelligence and Machine Learning</li>
-     <li>Data Structure and Algorithms </li>
+     <li>Masters in Artificial Intelligence</li>
     </ul>
 - 📫 How to reach me <br>
     <ul>
