@@ -10,7 +10,7 @@
     </ul>
 - 📫 How to reach me <br>
     <ul>
-      <li>LinkedIN: https://www.linkedin.com/in/munukuntla-phani-tarun-7a959b21a/<br></li>
+      <li>LinkedIN: https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/<br></li>
       <li>HackerRank: https://www.hackerrank.com/tarungoud777</li>
     </ul>
 
