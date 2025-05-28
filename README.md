@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML developer passionate about b
 
 ---
 
-Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning with others! 
-Thanks for visiting my profile! 😊
+Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning with others! <br>
+Thanks for visiting my profile! 😊 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MPhaniTarun&style=flat-square)
