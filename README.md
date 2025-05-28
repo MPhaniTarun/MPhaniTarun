@@ -1,21 +1,32 @@
-- 👋 Hi, I’m @MPhaniTarun
-- 👀 I’m interested in 
-     <ul>
-      <li>Programming</li>
-      <li>AI/ML/NLP/CV</li>
-     </ul>
-- 🌱 I’m currently pursuing 
-    <ul>
-     <li>Masters in Artificial Intelligence</li>
-    </ul>
-- 📫 How to reach me <br>
-    <ul>
-      <li>LinkedIN: https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/<br></li>
-      <li>HackerRank: https://www.hackerrank.com/tarungoud777</li>
-    </ul>
+# Hi, I'm Phani Tarun 👋
 
-<!---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MPhaniTarun&theme=radical)
-MPhaniTarun/MPhaniTarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm an aspiring AI/ML developer passionate about building intelligent systems that solve real-world problems. I enjoy working across the machine learning pipeline—from data wrangling and model training to deploying scalable applications.
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently pursuing an MSc in Artificial Intelligence at **SUNY Buffalo**.
+- 🤖 I'm building projects in **Deep Learning**, **Reinforcement Learning**, and **Natural Language Processing**.
+- 🌱 Constantly learning more about **Conversational AI**, **Computer Vision**, and **MLOps**.
+- 🧠 Interested in **LLMs**, **VLMs**, and assistive technology applications.
+- 💬 Ask me about `PyTorch`, `TensorFlow`, `Scikit-learn`, `Transformers`, `RAG` and `Reinforcement Learning`.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/) | [Email](mailto:phani.tarun14@gmail.com)
+
+## 🚀 Technologies & Tools
+
+**Languages:** Python, Java, SQL  
+**AI/ML Libraries:** PyTorch, TensorFlow, Keras, scikit-learn  
+**Data:** Pandas, NumPy, MongoDB, MySQL  
+**MLOps & Cloud:** Docker, Git, CI/CD, AWS  
+**Tools:** Jupyter, VS Code, Postman, Jira
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/)
+- [GitHub](https://github.com/MPhaniTarun)
+
+---
+
+Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning with others! 
+Thanks for visiting my profile! 😊
+
+![Profile Views](https://komarev.com/ghpvc/?username=MPhaniTarun&style=flat-square)
