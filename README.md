@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML developer passionate about b
 
 ## 🔗 Links
 
+- [Portfolio](https://portfolio-chi-one-17.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/)
 - [GitHub](https://github.com/MPhaniTarun)
 
