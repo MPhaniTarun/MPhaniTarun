@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML developer passionate about b
 - 🌱 Constantly learning more about **Conversational AI**, **Computer Vision**, and **MLOps**.
 - 🧠 Interested in **LLMs**, **VLMs**, and assistive technology applications.
 - 💬 Ask me about `PyTorch`, `TensorFlow`, `Scikit-learn`, `Transformers`, `RAG` and `Reinforcement Learning`.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/) | [Email](mailto:phani.tarun14@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phani-tarun-munukuntla-7a959b21a/) | [Email](mailto:phani.tarun14@gmail.com) | [Website](https://portfolio-chi-one-17.vercel.app/)
 
 ## 🚀 Technologies & Tools
 
